@@ -4,19 +4,22 @@ Clone this repository (well done!)
 
 # Task 1
 
-Take a look at the two repositories:
-
-  * (A) https://bitbucket.org/altmattr/personalised-correlation/src/master/
-  * (B) https://github.com/Whiley/WhileyCompiler
-
-And answer the following questions about them:
-
-  * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+* These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+  A: both of them are version control system to keep track of your source code history. Bitbucket is focused on private repositories and allows to have 5 collaborators for free, while GitHub is a better fit for public repositories. so github will be better for use.
   * Who made the last commit to repository A?
+  Matthew Roberts
   * Who made the first commit to repository A?
+  Jon Mountjoy
   * Who made the first and last commits to repository B?
+  first DavePearce
+  last DavePearce
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+  the both of the git is not active as the last commit for both of them were done at least 2 years ago. that's how i decided its not active anymore.
+
   * 🤔 Which file in each project has had the most activity?
+  A)LICENCE
+  B) src/main/java/wyil/lang/WyilFile.java
+
 
 # Task 2
 
